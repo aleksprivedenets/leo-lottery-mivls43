@@ -1,4 +1,5 @@
 # lottery.aleo
+discord: kittyk1tty
 
 ## Run Guide
 
